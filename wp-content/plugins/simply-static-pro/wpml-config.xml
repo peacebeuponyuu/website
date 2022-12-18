@@ -1,0 +1,110 @@
+<wpml-config>
+  <custom-types>
+    <custom-type translate="0">ssp-form</custom-type>
+  </custom-types>
+  <taxonomies>
+    <taxonomy translate="0">ssp-build</taxonomy>
+  </taxonomies>
+  <custom-fields>
+    <custom-field action="ignore">tool</custom-field>
+    <custom-field action="ignore">email</custom-field>
+    <custom-field action="ignore">form_id</custom-field>
+    <custom-field action="ignore">subject</custom-field>
+    <custom-field action="ignore">endpoint</custom-field>
+    <custom-field action="ignore">redirect_url</custom-field>
+    <custom-field action="ignore">name_attributes</custom-field>
+    <custom-field action="ignore">additional_headers</custom-field>
+    <custom-field action="ignore">message</custom-field>
+  </custom-fields>
+  <admin-texts>
+    <key name="simply-static">
+      <key name="destination_scheme"/>
+      <key name="destination_host"/>
+      <key name="temp_files_dir"/>
+      <key name="additional_urls"/>
+      <key name="additional_files"/>
+      <key name="urls_to_exclude">
+        <key name="https://simplystatic.local/wp-json">
+          <key name="url"/>
+          <key name="do_not_save"/>
+          <key name="do_not_follow"/>
+        </key>
+        <key name="https://simplystatic.local/wp-login.php">
+          <key name="url"/>
+          <key name="do_not_save"/>
+          <key name="do_not_follow"/>
+        </key>
+      </key>
+      <key name="delivery_method"/>
+      <key name="local_dir"/>
+      <key name="relative_path"/>
+      <key name="destination_url_type"/>
+      <key name="archive_status_messages">
+        <key name="setup">
+          <key name="message"/>
+          <key name="datetime"/>
+        </key>
+        <key name="fetch_urls">
+          <key name="message"/>
+          <key name="datetime"/>
+        </key>
+        <key name="done">
+          <key name="message"/>
+          <key name="datetime"/>
+        </key>
+      </key>
+      <key name="archive_name"/>
+      <key name="archive_start_time"/>
+      <key name="archive_end_time"/>
+      <key name="debugging_mode"/>
+      <key name="http_basic_auth_digest"/>
+      <key name="version"/>
+      <key name="use_cron"/>
+      <key name="cdn-api-key"/>
+      <key name="cdn-pull-zone"/>
+      <key name="cdn-storage-zone"/>
+      <key name="cdn-directory"/>
+      <key name="cdn-404"/>
+      <key name="github-user"/>
+      <key name="github-email"/>
+      <key name="github-personal-access-token"/>
+      <key name="github-repository"/>
+      <key name="github-repository-visibility"/>
+      <key name="github-branch"/>
+      <key name="github-webhook-url"/>
+      <key name="use-forms"/>
+      <key name="use-comments"/>
+      <key name="comment-redirect"/>
+      <key name="fix-cors"/>
+      <key name="static-url"/>
+      <key name="use-search"/>
+      <key name="static-search-url"/>
+      <key name="search-type"/>
+      <key name="search-index-title"/>
+      <key name="search-index-content"/>
+      <key name="search-index-excerpt"/>
+      <key name="search-excludable">
+        <key name="0"/>
+      </key>
+      <key name="algolia-app-id"/>
+      <key name="algolia-admin-api-key"/>
+      <key name="algolia-search-api-key"/>
+      <key name="algolia-index"/>
+      <key name="algolia-selector"/>
+      <key name="github-repository-created"/>
+      <key name="delete-files">
+        <key name="0"/>
+        <key name="1"/>
+        <key name="4"/>
+        <key name="10"/>
+        <key name="12"/>
+      </key>
+      <key name="cdn-access-key"/>
+    </key>
+  </admin-texts>
+  <shortcodes>
+    <shortcode>
+      <tag>ssp-search</tag>
+    </shortcode>
+  </shortcodes>
+</wpml-config>

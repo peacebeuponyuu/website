@@ -1,0 +1,1016 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Simply Static Pro\n"
+"POT-Creation-Date: 2022-05-23 14:11+0200\n"
+"PO-Revision-Date: 2021-06-13 14:39+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: simply-static-pro.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+"X-Poedit-SearchPathExcluded-1: vendor\n"
+
+#: simply-static-pro.php:131
+#, php-format
+msgid ""
+"The free version of Simply Static is required to use Simply Static Pro. You "
+"can get it %s."
+msgstr ""
+
+#: src/build/class-ssp-build-meta.php:52 src/build/class-ssp-build-meta.php:81
+msgid "URLs to export"
+msgstr ""
+
+#: src/build/class-ssp-build-meta.php:54 src/build/class-ssp-build-meta.php:85
+msgid ""
+"Add URLs you want to export here (one per line). Simply Static will crawl "
+"each of these and run a static export only for these URLs."
+msgstr ""
+
+#: src/build/class-ssp-build-meta.php:57 src/build/class-ssp-build-meta.php:90
+msgid "Additional Files and Directories"
+msgstr ""
+
+#: src/build/class-ssp-build-meta.php:59 src/build/class-ssp-build-meta.php:94
+msgid ""
+"Add additional files or directories. Add the paths to those files or "
+"directories here (one per line)."
+msgstr ""
+
+#: src/build/class-ssp-build-meta.php:60 src/build/class-ssp-build-meta.php:95
+#, php-format
+msgid "Example: %s"
+msgstr ""
+
+#: src/build/class-ssp-build-meta.php:60 src/build/class-ssp-build-meta.php:95
+msgid "my-file.pdf"
+msgstr ""
+
+#: src/build/class-ssp-build-meta.php:121
+msgid "Name"
+msgstr ""
+
+#: src/build/class-ssp-build-meta.php:122
+msgid "Generate"
+msgstr ""
+
+#: src/build/class-ssp-build-settings.php:92
+#: src/build/class-ssp-build-settings.php:93
+#: src/build/class-ssp-build-settings.php:122
+msgid "Builds"
+msgstr ""
+
+#: src/build/class-ssp-build-settings.php:107
+msgctxt "taxonomy general name"
+msgid "Builds"
+msgstr ""
+
+#: src/build/class-ssp-build-settings.php:108
+msgctxt "taxonomy singular name"
+msgid "Build"
+msgstr ""
+
+#: src/build/class-ssp-build-settings.php:109
+msgid "Search Builds"
+msgstr ""
+
+#: src/build/class-ssp-build-settings.php:110
+msgid "Popular Builds"
+msgstr ""
+
+#: src/build/class-ssp-build-settings.php:111
+msgid "All Builds"
+msgstr ""
+
+#: src/build/class-ssp-build-settings.php:114
+msgid "Edit Build"
+msgstr ""
+
+#: src/build/class-ssp-build-settings.php:115
+msgid "Update Build"
+msgstr ""
+
+#: src/build/class-ssp-build-settings.php:116
+msgid "Add New Build"
+msgstr ""
+
+#: src/build/class-ssp-build-settings.php:117
+msgid "New Build Name"
+msgstr ""
+
+#: src/build/class-ssp-build-settings.php:118
+msgid "Separate builds with commas"
+msgstr ""
+
+#: src/build/class-ssp-build-settings.php:119
+msgid "Add or remove builds"
+msgstr ""
+
+#: src/build/class-ssp-build-settings.php:120
+msgid "Choose from the most used builds"
+msgstr ""
+
+#: src/build/class-ssp-build-settings.php:121
+msgid "No builds found."
+msgstr ""
+
+#: src/build/class-ssp-build-settings.php:210
+#: src/build/class-ssp-build-settings.php:213
+msgid "View static URL"
+msgstr ""
+
+#: src/build/class-ssp-build.php:98 src/single/class-ssp-single.php:207
+#: src/single/class-ssp-single.php:225
+msgid "Additional URL"
+msgstr ""
+
+#: src/build/class-ssp-build.php:125
+msgid "Additional File"
+msgstr ""
+
+#: src/build/class-ssp-build.php:139
+msgid "Additional Dir"
+msgstr ""
+
+#: src/class-ssp-helper.php:56
+msgid ""
+"Warning, you are currently running in development mode. Make sure to remove "
+"define( 'SSP_DEV_MODE', true ); from your wp-config.php before you run a new "
+"static export."
+msgstr ""
+
+#: src/deployment/bunny-cdn/class-ssp-bunny-deploy-task.php:48
+msgid "Starts to transfer of pages/files to CDN"
+msgstr ""
+
+#: src/deployment/bunny-cdn/class-ssp-bunny-deploy-task.php:68
+#, php-format
+msgid "Pushed %d pages/files to CDN"
+msgstr ""
+
+#: src/deployment/bunny-cdn/class-ssp-bunny-updater.php:146
+#, php-format
+msgid "The file located at %s could not be uploaded via FTP."
+msgstr ""
+
+#: src/deployment/class-ssp-deployment-settings.php:76
+msgid "Github"
+msgstr ""
+
+#: src/deployment/class-ssp-deployment-settings.php:77
+#: src/deployment/views/deployment.php:2
+msgid "CDN"
+msgstr ""
+
+#: src/deployment/class-ssp-deployment-settings.php:91
+msgid ""
+"When using Github please make sure you are using relative URLs and that you "
+"have configured the necessary settings in Simply Static -> Settings -> "
+"Deployment"
+msgstr ""
+
+#: src/deployment/class-ssp-deployment-settings.php:97
+msgid ""
+"When using CDN please make sure you are using relative URLs and that you "
+"have configured the necessary settings in Simply Static -> Settings -> "
+"Deployment"
+msgstr ""
+
+#: src/deployment/class-ssp-deployment-settings.php:142
+msgid "There is currently no Pull zone connected."
+msgstr ""
+
+#: src/deployment/class-ssp-deployment-settings.php:218
+msgid "Delete Repository"
+msgstr ""
+
+#: src/deployment/class-ssp-deployment-settings.php:222
+#: src/deployment/class-ssp-deployment-settings.php:232
+msgid "Add Repository"
+msgstr ""
+
+#: src/deployment/class-ssp-deployment-settings.php:227
+#: src/deployment/class-ssp-deployment-settings.php:237
+msgid "There is currently no repository."
+msgstr ""
+
+#: src/deployment/github/class-ssp-github-commit-task.php:82
+#, php-format
+msgid "Comitted / Updated %d of %d pages/files"
+msgstr ""
+
+#: src/deployment/github/class-ssp-github-repository.php:98
+msgid "This repository was created with Simply Static Pro"
+msgstr ""
+
+#: src/deployment/github/class-ssp-github-repository.php:99
+msgid "Repository was successfully created."
+msgstr ""
+
+#: src/deployment/github/class-ssp-github-repository.php:139
+msgid "Repository was successfully deleted."
+msgstr ""
+
+#: src/deployment/views/deployment.php:6
+#, php-format
+msgid ""
+"Deploying to an CDN is the easiest way to get your static website up and "
+"running in no time. We currently support %s as a provider."
+msgstr ""
+
+#: src/deployment/views/deployment.php:15
+msgid "CDN Provider"
+msgstr ""
+
+#: src/deployment/views/deployment.php:22
+msgid "Choose a CDN Provider you want to deploy to."
+msgstr ""
+
+#: src/deployment/views/deployment.php:28
+msgid "CDN API Key"
+msgstr ""
+
+#: src/deployment/views/deployment.php:34
+#, php-format
+msgid ""
+"Enter your API Key for your CDN Provider. In case of BunnyCDN you can find "
+"your API-Key as described %s"
+msgstr ""
+
+#: src/deployment/views/deployment.php:40
+msgid "Storage Host"
+msgstr ""
+
+#: src/deployment/views/deployment.php:46
+#, php-format
+msgid ""
+"Depending on your location, you have a different storage host. You find out "
+"which URL to use %s"
+msgstr ""
+
+#: src/deployment/views/deployment.php:53
+msgid "CDN Access Key"
+msgstr ""
+
+#: src/deployment/views/deployment.php:59
+msgid ""
+"Enter your Acess Key for your CDN Provider. In case of BunnyCDN you will "
+"find it within your storage zone setttings within FTP & API Access -> "
+"Password."
+msgstr ""
+
+#: src/deployment/views/deployment.php:60
+msgid ""
+"It's required to perform actions like uploading, deleting files and clearing "
+"the cache of your zone."
+msgstr ""
+
+#: src/deployment/views/deployment.php:67
+msgid "Pull Zone"
+msgstr ""
+
+#: src/deployment/views/deployment.php:73
+msgid ""
+"A pull zone is the connection of your CDN to the internet. Simply Static "
+"will try to find an existing pull zone with the provided name, if there is "
+"none it creates a new pull zone."
+msgstr ""
+
+#: src/deployment/views/deployment.php:79
+msgid "Storage Zone"
+msgstr ""
+
+#: src/deployment/views/deployment.php:85
+msgid ""
+"A storage zone contains your static files. Simply Static will try to find an "
+"existing storage zone with the provided name, if there is none it creates a "
+"new storage zone."
+msgstr ""
+
+#: src/deployment/views/deployment.php:91
+msgid "Directory"
+msgstr ""
+
+#: src/deployment/views/deployment.php:97
+msgid ""
+"[OPTIONAL] If you want to transfer the files to a specific sub directory on "
+"your storage zone add the name of that directory here."
+msgstr ""
+
+#: src/deployment/views/deployment.php:103
+msgid "404"
+msgstr ""
+
+#: src/deployment/views/deployment.php:109
+msgid "Relative path to your custom 404 page. For example /custom-404/"
+msgstr ""
+
+#: src/deployment/views/deployment.php:115
+msgid "CDN CNAME"
+msgstr ""
+
+#: src/deployment/views/deployment.php:121
+msgid ""
+"This is the CNAME entry of your pull zone. Add a CNAME entry to the DNS "
+"entries of your domain to connect it with your CDN."
+msgstr ""
+
+#: src/deployment/views/deployment.php:127
+msgid "GitHub"
+msgstr ""
+
+#: src/deployment/views/deployment.php:131
+#, php-format
+msgid ""
+"We use GitHub to automate the deloyment. This allows you to easily publish "
+"your static site to %s, %s, %s, %s or any other static hosting provider."
+msgstr ""
+
+#: src/deployment/views/deployment.php:143
+msgid "GitHub User / Organization"
+msgstr ""
+
+#: src/deployment/views/deployment.php:149
+#, php-format
+msgid ""
+"Enter your GitHub username or the name of your organization. You can create "
+"an account for free %s If you are using a repository from an organization, "
+"please provide the name of the organization here."
+msgstr ""
+
+#: src/deployment/views/deployment.php:155
+msgid "GitHub E-Mail"
+msgstr ""
+
+#: src/deployment/views/deployment.php:161
+msgid ""
+"Enter your GitHub email address. This will be used to commit files to your "
+"repository."
+msgstr ""
+
+#: src/deployment/views/deployment.php:167
+msgid "Personal Access Token"
+msgstr ""
+
+#: src/deployment/views/deployment.php:173
+#, php-format
+msgid "You need a personal access token from GitHub. Get one %s"
+msgstr ""
+
+#: src/deployment/views/deployment.php:179
+msgid "Name your repository"
+msgstr ""
+
+#: src/deployment/views/deployment.php:184
+msgid ""
+"Enter a name for your repository. This should be lowercase and without any "
+"spaces or special characters."
+msgstr ""
+
+#: src/deployment/views/deployment.php:190
+msgid "Visiblity of your repository"
+msgstr ""
+
+#: src/deployment/views/deployment.php:197
+msgid ""
+"Decide if you want to make your repository public or private. Please check "
+"the pricing of your hoster for each option."
+msgstr ""
+
+#: src/deployment/views/deployment.php:203
+msgid "Name your branch"
+msgstr ""
+
+#: src/deployment/views/deployment.php:208
+#, php-format
+msgid ""
+"[OPTIONAL] add a name for your branch. Simply Static Pro automatically uses "
+"main as branch. You may want to modify that for example to %s for GitHub "
+"Pages."
+msgstr ""
+
+#: src/deployment/views/deployment.php:214
+msgid "Webhook URL"
+msgstr ""
+
+#: src/deployment/views/deployment.php:219
+msgid ""
+"Enter your Webhook URL here and Simply Static will send a POST request after "
+"all files are commited to GitHub."
+msgstr ""
+
+#: src/deployment/views/deployment.php:225
+msgid "Link to your repository"
+msgstr ""
+
+#: src/deployment/views/deployment.php:239 src/form/views/form.php:98
+#: src/search/views/search.php:197
+msgid "Save Changes"
+msgstr ""
+
+#: src/form/class-ssp-form-meta.php:47
+msgid "Form Configuration"
+msgstr ""
+
+#: src/form/class-ssp-form-meta.php:71
+msgid "Contact Form 7"
+msgstr ""
+
+#: src/form/class-ssp-form-meta.php:72
+msgid "Gravity Forms"
+msgstr ""
+
+#: src/form/class-ssp-form-meta.php:73
+msgid "External Service"
+msgstr ""
+
+#: src/form/class-ssp-form-meta.php:80
+msgid "Choose A Tool"
+msgstr ""
+
+#: src/form/class-ssp-form-meta.php:90
+msgid "Choose the tool to process the form (Plugin or external service)."
+msgstr ""
+
+#: src/form/class-ssp-form-meta.php:93
+msgid "Form ID"
+msgstr ""
+
+#: src/form/class-ssp-form-meta.php:95
+msgid "Optional: Only required when using a form plugin."
+msgstr ""
+
+#: src/form/class-ssp-form-meta.php:98
+msgid "Subject Attribute"
+msgstr ""
+
+#: src/form/class-ssp-form-meta.php:100
+msgid ""
+"Optional: Only required when using a form plugin. Add the form attribute for "
+"the subject of your mail."
+msgstr ""
+
+#: src/form/class-ssp-form-meta.php:103
+msgid "Name Attributes"
+msgstr ""
+
+#: src/form/class-ssp-form-meta.php:105
+msgid "Add a comma-separated list of the name attributes of your form."
+msgstr ""
+
+#: src/form/class-ssp-form-meta.php:108
+msgid "Message"
+msgstr ""
+
+#: src/form/class-ssp-form-meta.php:110
+msgid ""
+"Use HTML to format your message. You can use the provided name attributes as "
+"they will automatically replaced with the added values from the submitted "
+"form."
+msgstr ""
+
+#: src/form/class-ssp-form-meta.php:115
+msgid "E-Mail Address"
+msgstr ""
+
+#: src/form/class-ssp-form-meta.php:117
+msgid "Add the e-mail where the e-mail should be sent to."
+msgstr ""
+
+#: src/form/class-ssp-form-meta.php:120
+msgid "Additional Headers"
+msgstr ""
+
+#: src/form/class-ssp-form-meta.php:122
+msgid ""
+"Optional: You can add addtional headers to add CC, BCC or Reply to e-mails "
+"here. You can add multiple headers here by separating them with comma."
+msgstr ""
+
+#: src/form/class-ssp-form-meta.php:125
+msgid "Endpoint"
+msgstr ""
+
+#: src/form/class-ssp-form-meta.php:127
+msgid ""
+"Add an endpoint URL from <a target=\"_blank\" href=\"https://zapier.com/"
+"\">Zapier</a>, <a target=\"_blank\" href=\"https://ifttt.com/\">IFTT</a> or "
+"use the Simply Static endpoint."
+msgstr ""
+
+#: src/form/class-ssp-form-meta.php:128
+msgid "Simply Static Endpoint"
+msgstr ""
+
+#: src/form/class-ssp-form-meta.php:131
+msgid "Redirect URL"
+msgstr ""
+
+#: src/form/class-ssp-form-meta.php:133
+msgid "Redirect a user after successful submission to this URL."
+msgstr ""
+
+#: src/form/class-ssp-form-settings.php:79
+#: src/form/class-ssp-form-settings.php:230
+#: src/form/class-ssp-form-settings.php:231 src/form/views/form.php:71
+msgid "Forms"
+msgstr ""
+
+#: src/form/class-ssp-form-settings.php:124
+#: src/form/class-ssp-form-settings.php:126
+#: src/form/class-ssp-form-settings.php:130
+#: src/form/class-ssp-form-settings.php:143
+#: src/form/class-ssp-form-settings.php:145
+#: src/form/class-ssp-form-settings.php:149
+#: src/search/class-ssp-search-settings.php:70
+#: src/search/class-ssp-search-settings.php:72
+#: src/search/class-ssp-search-settings.php:76
+msgid "no"
+msgstr ""
+
+#: src/form/class-ssp-form-settings.php:124
+#: src/form/class-ssp-form-settings.php:126
+#: src/form/class-ssp-form-settings.php:130
+#: src/form/class-ssp-form-settings.php:143
+#: src/form/class-ssp-form-settings.php:145
+#: src/form/class-ssp-form-settings.php:149
+#: src/search/class-ssp-search-settings.php:70
+#: src/search/class-ssp-search-settings.php:72
+#: src/search/class-ssp-search-settings.php:76
+msgid "yes"
+msgstr ""
+
+#: src/form/class-ssp-form-settings.php:154
+msgid "Create form config"
+msgstr ""
+
+#: src/form/class-ssp-form-settings.php:245
+msgctxt "Post type general name"
+msgid "Forms"
+msgstr ""
+
+#: src/form/class-ssp-form-settings.php:246
+msgctxt "Post type singular name"
+msgid "Form"
+msgstr ""
+
+#: src/form/class-ssp-form-settings.php:247
+msgctxt "Admin Menu text"
+msgid "Forms"
+msgstr ""
+
+#: src/form/class-ssp-form-settings.php:248
+msgctxt "Add New on Toolbar"
+msgid "Form"
+msgstr ""
+
+#: src/form/class-ssp-form-settings.php:249
+msgid "Add New"
+msgstr ""
+
+#: src/form/class-ssp-form-settings.php:250
+msgid "Add New Form"
+msgstr ""
+
+#: src/form/class-ssp-form-settings.php:251
+msgid "New Form"
+msgstr ""
+
+#: src/form/class-ssp-form-settings.php:252
+msgid "Edit Form"
+msgstr ""
+
+#: src/form/class-ssp-form-settings.php:253
+msgid "View Form"
+msgstr ""
+
+#: src/form/class-ssp-form-settings.php:254
+msgid "All Forms"
+msgstr ""
+
+#: src/form/class-ssp-form-settings.php:255
+msgid "Search Forms"
+msgstr ""
+
+#: src/form/class-ssp-form-settings.php:256
+msgid "Parent Forms:"
+msgstr ""
+
+#: src/form/class-ssp-form-settings.php:257
+msgid "No forms found."
+msgstr ""
+
+#: src/form/class-ssp-form-settings.php:258
+msgid "No forms found in Trash."
+msgstr ""
+
+#: src/form/class-ssp-form-settings.php:259
+msgctxt ""
+"Overrides the “Featured Image” phrase for this post type. Added in 4.3"
+msgid "Form Cover Image"
+msgstr ""
+
+#: src/form/class-ssp-form-settings.php:260
+msgctxt ""
+"Overrides the “Set featured image” phrase for this post type. Added in 4.3"
+msgid "Set cover image"
+msgstr ""
+
+#: src/form/class-ssp-form-settings.php:261
+msgctxt ""
+"Overrides the “Remove featured image” phrase for this post type. Added in 4.3"
+msgid "Remove cover image"
+msgstr ""
+
+#: src/form/class-ssp-form-settings.php:262
+msgctxt ""
+"Overrides the “Use as featured image” phrase for this post type. Added in 4.3"
+msgid "Use as cover image"
+msgstr ""
+
+#: src/form/class-ssp-form-settings.php:263
+msgctxt ""
+"The post type archive label used in nav menus. Default “Post Archives”. "
+"Added in 4.4"
+msgid "Form archives"
+msgstr ""
+
+#: src/form/class-ssp-form-settings.php:264
+msgctxt ""
+"Overrides the “Insert into post”/”Insert into page” phrase (used when "
+"inserting media into a post). Added in 4.4"
+msgid "Insert into form"
+msgstr ""
+
+#: src/form/class-ssp-form-settings.php:265
+msgctxt ""
+"Overrides the “Uploaded to this post”/”Uploaded to this page” phrase (used "
+"when viewing media attached to a post). Added in 4.4"
+msgid "Uploaded to this form"
+msgstr ""
+
+#: src/form/class-ssp-form-settings.php:266
+msgctxt ""
+"Screen reader text for the filter links heading on the post type listing "
+"screen. Default “Filter posts list”/”Filter pages list”. Added in 4.4"
+msgid "Filter forms list"
+msgstr ""
+
+#: src/form/class-ssp-form-settings.php:267
+msgctxt ""
+"Screen reader text for the pagination heading on the post type listing "
+"screen. Default “Posts list navigation”/”Pages list navigation”. Added in 4.4"
+msgid "Forms list navigation"
+msgstr ""
+
+#: src/form/class-ssp-form-settings.php:268
+msgctxt ""
+"Screen reader text for the items list heading on the post type listing "
+"screen. Default “Posts list”/”Pages list”. Added in 4.4"
+msgid "Forms list"
+msgstr ""
+
+#: src/form/class-ssp-form-settings.php:320
+msgid "Created form config file"
+msgstr ""
+
+#: src/form/class-ssp-form-settings.php:322
+msgid "There was a problem creating the config file."
+msgstr ""
+
+#: src/form/class-ssp-form-settings.php:359
+msgid ""
+"You need to add the static URL in your CORS settings before you can create a "
+"form configuration."
+msgstr ""
+
+#: src/form/views/form.php:2
+msgid "CORS"
+msgstr ""
+
+#: src/form/views/form.php:4
+msgid ""
+"When using Forms and Comments in Simply Static Pro you may encouter CORS "
+"issues as you make requests from your static website to your original one."
+msgstr ""
+
+#: src/form/views/form.php:5
+msgid ""
+"Due to the variety of server setups out there, you may need to make changes "
+"on your server. if you need a more advanced solution try out"
+msgstr ""
+
+#: src/form/views/form.php:11 src/search/views/search.php:23
+msgid "Static URL"
+msgstr ""
+
+#: src/form/views/form.php:16
+msgid "Add the URL of your static website to allow CORS for it."
+msgstr ""
+
+#: src/form/views/form.php:22
+msgid "Fix CORS with method"
+msgstr ""
+
+#: src/form/views/form.php:29
+msgid "Choose one of the methods to allow CORS for your website."
+msgstr ""
+
+#: src/form/views/form.php:35
+msgid "Comments"
+msgstr ""
+
+#: src/form/views/form.php:37
+msgid ""
+"Activate the usage of static comments. It uses a webhook to send the data to "
+"the configured endpoint."
+msgstr ""
+
+#: src/form/views/form.php:38
+msgid ""
+"Make sure to save your permalinks in Settings->Permalinks after saving an "
+"endpoint."
+msgstr ""
+
+#: src/form/views/form.php:44
+msgid "Use comments?"
+msgstr ""
+
+#: src/form/views/form.php:51
+msgid "Decide whether or not you want to use comments on your static site."
+msgstr ""
+
+#: src/form/views/form.php:57
+msgid "Comment Redirect"
+msgstr ""
+
+#: src/form/views/form.php:63
+msgid ""
+"Due to the fact that the page needs to be regenerated after a comment was "
+"added, you should redirect your user to a custom thank you for your comment "
+"page."
+msgstr ""
+
+#: src/form/views/form.php:64
+msgid ""
+"The page will be generated and commited automatically, but it may take up to "
+"a minute."
+msgstr ""
+
+#: src/form/views/form.php:73
+msgid ""
+"Generate a form index file to use forms on your static website. This file "
+"will be used to connect the form on your website with the connector you "
+"added in Simply Static -> Forms. "
+msgstr ""
+
+#: src/form/views/form.php:79
+msgid "Use forms?"
+msgstr ""
+
+#: src/form/views/form.php:86
+msgid "Decide whether or not you want to use forms on your static site."
+msgstr ""
+
+#: src/search/class-ssp-search-algolia.php:240
+msgid "There was an connection error with Algolia. Please check your settings."
+msgstr ""
+
+#: src/search/class-ssp-search-algolia.php:243
+#: src/search/class-ssp-search-fuse.php:350
+msgid "Added the following URL to search index"
+msgstr ""
+
+#: src/search/class-ssp-search-algolia.php:245
+#: src/search/class-ssp-search-fuse.php:352
+msgid ""
+"You need to add the static URL in your search settings before you can create "
+"an index."
+msgstr ""
+
+#: src/search/class-ssp-search-fuse.php:66
+#: src/search/class-ssp-search-settings.php:49 src/search/views/search.php:2
+msgid "Search"
+msgstr ""
+
+#: src/search/class-ssp-search-fuse.php:66
+msgid "No results found."
+msgstr ""
+
+#: src/search/class-ssp-search-fuse.php:347
+msgid "Could not append the result to the search index."
+msgstr ""
+
+#: src/search/views/search.php:4
+msgid ""
+"Activate the usage of static search. It uses fuse.js or the Algolia API and "
+"creates an complete index to search by title and content of each page."
+msgstr ""
+
+#: src/search/views/search.php:10
+msgid "Use search?"
+msgstr ""
+
+#: src/search/views/search.php:17
+msgid "Decide whether or not you want to use search on your static site."
+msgstr ""
+
+#: src/search/views/search.php:28
+msgid ""
+"Add the URL of your static website to create a working index with correct "
+"URLs for it."
+msgstr ""
+
+#: src/search/views/search.php:34
+msgid "Search-Type"
+msgstr ""
+
+#: src/search/views/search.php:41
+msgid ""
+"Decide wich search type you want to use. Fuse runs locally based on file and "
+"Algolia is an external API service."
+msgstr ""
+
+#: src/search/views/search.php:47
+msgid "Indexing"
+msgstr ""
+
+#: src/search/views/search.php:52
+msgid "CSS-Selector for Title"
+msgstr ""
+
+#: src/search/views/search.php:57
+msgid "Add the CSS selector which contains the title of the page/post"
+msgstr ""
+
+#: src/search/views/search.php:63
+msgid "CSS-Selector for Content"
+msgstr ""
+
+#: src/search/views/search.php:68
+msgid "Add the CSS selector which contains the content of the page/post."
+msgstr ""
+
+#: src/search/views/search.php:74
+msgid "CSS-Selector for Excerpt"
+msgstr ""
+
+#: src/search/views/search.php:79
+msgid "Add the CSS selector which contains the excerpt of the page/post."
+msgstr ""
+
+#: src/search/views/search.php:85
+msgid "Exclude URLs"
+msgstr ""
+
+#: src/search/views/search.php:100
+msgid "Remove"
+msgstr ""
+
+#: src/search/views/search.php:106
+msgid "Add URL to Exclude"
+msgstr ""
+
+#: src/search/views/search.php:109
+msgid ""
+"Exclude URLs from indexing. You can use full URLs, parts of an URL or plain "
+"words (like stop words)."
+msgstr ""
+
+#: src/search/views/search.php:115
+msgid "Fuse.js"
+msgstr ""
+
+#: src/search/views/search.php:120
+msgid "Search Shortcode"
+msgstr ""
+
+#: src/search/views/search.php:125
+msgid ""
+"Copy the shortcode and add it to your website. It renders a search box with "
+"autosuggestion."
+msgstr ""
+
+#: src/search/views/search.php:131
+msgid "Algolia"
+msgstr ""
+
+#: src/search/views/search.php:136
+msgid "Application ID"
+msgstr ""
+
+#: src/search/views/search.php:141
+msgid "Add your Algolia App ID here."
+msgstr ""
+
+#: src/search/views/search.php:147
+msgid "Admin API Key"
+msgstr ""
+
+#: src/search/views/search.php:152
+msgid "Add your Algolia Admin API Key here."
+msgstr ""
+
+#: src/search/views/search.php:158
+msgid "Search-Only API Key"
+msgstr ""
+
+#: src/search/views/search.php:163
+msgid ""
+"Add your Algolia Search-Only API Key here. This is the only key that will be "
+"visible on your static site."
+msgstr ""
+
+#: src/search/views/search.php:169
+msgid "Name for your index"
+msgstr ""
+
+#: src/search/views/search.php:174
+msgid "Add your Algolia index name here. Default is simply_static"
+msgstr ""
+
+#: src/search/views/search.php:180
+msgid "CSS-Selector"
+msgstr ""
+
+#: src/search/views/search.php:185
+msgid ""
+"Add the CSS selector of your search element here. The default value is ."
+"search-field"
+msgstr ""
+
+#: src/single/class-ssp-single-meta.php:50
+msgid "Generate Static"
+msgstr ""
+
+#: src/single/class-ssp-single-meta.php:51
+msgid "Publish"
+msgstr ""
+
+#: src/single/class-ssp-single-meta.php:66
+msgid "Simply Static"
+msgstr ""
+
+#: src/single/class-ssp-single-meta.php:80
+msgid "Generate static"
+msgstr ""
+
+#: src/single/class-ssp-single-meta.php:83
+msgid ""
+"Use this to generate a static version of the current page you are editing."
+msgstr ""
+
+#: src/single/class-ssp-single-meta.php:86
+msgid "Delete static"
+msgstr ""
+
+#: src/single/class-ssp-single-meta.php:89
+msgid ""
+"Use this to delete the static version of the current page you are editing."
+msgstr ""
+
+#: src/single/class-ssp-single-meta.php:93
+msgid ""
+"You have to publish your post before you can create a static version of it."
+msgstr ""
+
+#: src/single/class-ssp-single.php:451 src/single/class-ssp-single.php:455
+#: src/single/class-ssp-single.php:459
+msgid "Deleted file on path"
+msgstr ""
+
+#: src/single/class-ssp-single.php:479 src/single/class-ssp-single.php:505
+msgid ""
+"The file could not be deleted. Please check your access key in Simply Static "
+"-> Settings -> Deployment"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Simply Static Pro"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "https://patrickposner.dev"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Enhances Simply Static with GitHub Integration, Forms, Comments and more."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Patrick Posner"
+msgstr ""

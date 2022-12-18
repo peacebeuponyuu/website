@@ -1,0 +1,27 @@
+#sistContainer .nav-tab {
+    width: 14.28% !important;
+  }
+
+#sistContainer #sistContent {
+    width: auto !important;
+    max-width: 100% !important;
+}
+
+#github-add, #github-delete, #create-index, #create-form-config {
+    margin-left: 10px;
+}
+#github-delete, #create-index, #create-form-config {
+    padding: 10px;
+    box-sizing: border-box;
+    border-radius: 0;
+}
+
+#github .button-primary, #search .button-primary, #form .button-primary{
+    float:left;
+}
+
+.ssp-success {
+    margin-top: 15px;
+    font-weight: bold;
+    color: #7200e5;
+}

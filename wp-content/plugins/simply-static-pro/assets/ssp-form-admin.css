@@ -1,0 +1,14 @@
+#form-configuration {
+    float: left;
+    width: 100%;
+}
+.ssp-meta > div {
+    display: block;
+    padding: 15px;
+    float: left;
+    width: 50%;
+    box-sizing: border-box;
+}
+.ssp-meta > div input, .ssp-meta > div textarea, .ssp-meta > div select {
+    width: 100%;
+}
