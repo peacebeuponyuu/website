@@ -3,8 +3,8 @@ Contributors: patrickposner
 Tags: HTML, static website generator, static site, secure, fast
 Requires at least: 5.4
 Tested up to: 6.1
-Requires PHP: 7.4
-Stable tag: 2.1.9
+Requires PHP: 7.2.5
+Stable tag: 2.2.1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -178,6 +178,24 @@ Simply Static creates a static copy of your WordPress site that is intended to b
 3. Diagnostics
 
 == Changelog ==
+
+= 2.2.1.1 =
+
+* improved path conversion for Windows
+* more fail-safe check for deleting local directory before export
+* WPCS code style updates
+
+= 2.2.1 =
+
+* fixed path resolution on local path exports
+
+= 2.2 =
+
+* improved URL replacement in script tags
+* fixed clear directory before export when using local path exports
+* added action fired after ZIP file created
+* fixed path replacement for Windows filesystems in Additional Files and Directories
+* untrailingslash path on transfer files locally
 
 = 2.1.9 =
 
