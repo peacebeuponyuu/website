@@ -1,7 +1,7 @@
 @font-face {
   font-family: 'eicons';
-  src: url("https://peacebeuponyuu.github.io/website/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5.16.0");
-  src: url("https://peacebeuponyuu.github.io/website/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5.16.0#iefix") format("embedded-opentype"), url("https://peacebeuponyuu.github.io/website/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5.16.0") format("woff2"), url("https://peacebeuponyuu.github.io/website/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff?5.16.0") format("woff"), url("https://peacebeuponyuu.github.io/website/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.ttf?5.16.0") format("truetype"), url("https://peacebeuponyuu.github.io/website/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.svg?5.16.0#eicon") format("svg");
+  src: url("/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5.16.0");
+  src: url("/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5.16.0#iefix") format("embedded-opentype"), url("/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5.16.0") format("woff2"), url("/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff?5.16.0") format("woff"), url("/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.ttf?5.16.0") format("truetype"), url("/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.svg?5.16.0#eicon") format("svg");
   font-weight: normal;
   font-style: normal; }
 

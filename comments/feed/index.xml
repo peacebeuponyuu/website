@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments for Dipta &#8211; UI/UX Designer	</title>
-	<atom:link href="https://peacebeuponyuu.github.io/website/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>https://peacebeuponyuu.github.io/website</link>
+	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
 	<description></description>
 	<lastBuildDate>Thu, 22 Dec 2022 17:29:07 +0000</lastBuildDate>
 	<sy:updatePeriod>

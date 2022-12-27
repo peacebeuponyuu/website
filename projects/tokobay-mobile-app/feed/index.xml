@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Protected: Tokobay Mobile App	</title>
-	<atom:link href="https://peacebeuponyuu.github.io/website/projects/tokobay-mobile-app/feed/" rel="self" type="application/rss+xml" />
-	<link>https://peacebeuponyuu.github.io/website/projects/tokobay-mobile-app/</link>
+	<atom:link href="/projects/tokobay-mobile-app/feed/" rel="self" type="application/rss+xml" />
+	<link>/projects/tokobay-mobile-app/</link>
 	<description></description>
 	<lastBuildDate>Thu, 22 Dec 2022 17:28:56 +0000</lastBuildDate>
 	<sy:updatePeriod>

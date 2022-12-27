@@ -1,10 +1,10 @@
 @font-face {
 	font-family: 'litespeedfont';
-	src: url('https://peacebeuponyuu.github.io/website/wp-content/plugins/litespeed-cache/assets/css/fonts/litespeedfont.eot?rs8ttq');
-	src: url('https://peacebeuponyuu.github.io/website/wp-content/plugins/litespeed-cache/assets/css/fonts/litespeedfont.eot?rs8ttq#iefix') format('embedded-opentype'),
-		url('https://peacebeuponyuu.github.io/website/wp-content/plugins/litespeed-cache/assets/css/fonts/litespeedfont.ttf?rs8ttq') format('truetype'),
-		url('https://peacebeuponyuu.github.io/website/wp-content/plugins/litespeed-cache/assets/css/fonts/litespeedfont.woff?rs8ttq') format('woff'),
-		url('https://peacebeuponyuu.github.io/website/wp-content/plugins/litespeed-cache/assets/css/fonts/litespeedfont.svg?rs8ttq#litespeedfont') format('svg');
+	src: url('/wp-content/plugins/litespeed-cache/assets/css/fonts/litespeedfont.eot?rs8ttq');
+	src: url('/wp-content/plugins/litespeed-cache/assets/css/fonts/litespeedfont.eot?rs8ttq#iefix') format('embedded-opentype'),
+		url('/wp-content/plugins/litespeed-cache/assets/css/fonts/litespeedfont.ttf?rs8ttq') format('truetype'),
+		url('/wp-content/plugins/litespeed-cache/assets/css/fonts/litespeedfont.woff?rs8ttq') format('woff'),
+		url('/wp-content/plugins/litespeed-cache/assets/css/fonts/litespeedfont.svg?rs8ttq#litespeedfont') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
@@ -121,7 +121,7 @@ input[type="checkbox"].litespeed-tiny-toggle:checked:after {
 	/* content: "\e900";
     font-family: 'litespeedfont' !important; */
 	content: '';
-	background-image:url('https://peacebeuponyuu.github.io/website/wp-content/plugins/litespeed-cache/assets/img/lscwp_grayscale_font-icon_22px.svg');
+	background-image:url('/wp-content/plugins/litespeed-cache/assets/img/lscwp_grayscale_font-icon_22px.svg');
 	/* filter: grayscale(1); */
 	background-size: 22px;
 	background-repeat: no-repeat;
@@ -148,7 +148,7 @@ input[type="checkbox"].litespeed-tiny-toggle:checked:after {
 }
 
 .litespeed-quic-icon {
-	background-image: url('https://peacebeuponyuu.github.io/website/wp-content/plugins/litespeed-cache/assets/img/quic-cloud-icon-16x16.svg');
+	background-image: url('/wp-content/plugins/litespeed-cache/assets/img/quic-cloud-icon-16x16.svg');
 	background-repeat: no-repeat;
 	width: 16px;
 	height: 16px;
@@ -819,91 +819,91 @@ h3 .litespeed-learn-more {
 }
 
 .litespeed-panel-icon-all {
-	background-image: url("https://peacebeuponyuu.github.io/website/wp-content/plugins/litespeed-cache/assets/img/icons/all.svg");
+	background-image: url("/wp-content/plugins/litespeed-cache/assets/img/icons/all.svg");
 }
 
 .litespeed-panel-icon-revision {
-	background-image: url("https://peacebeuponyuu.github.io/website/wp-content/plugins/litespeed-cache/assets/img/icons/revision.svg");
+	background-image: url("/wp-content/plugins/litespeed-cache/assets/img/icons/revision.svg");
 }
 
 .litespeed-panel-icon-auto_draft {
-	background-image: url("https://peacebeuponyuu.github.io/website/wp-content/plugins/litespeed-cache/assets/img/icons/auto_draft.svg");
+	background-image: url("/wp-content/plugins/litespeed-cache/assets/img/icons/auto_draft.svg");
 }
 
 .litespeed-panel-icon-trash_post {
-	background-image: url("https://peacebeuponyuu.github.io/website/wp-content/plugins/litespeed-cache/assets/img/icons/trash_post.svg");
+	background-image: url("/wp-content/plugins/litespeed-cache/assets/img/icons/trash_post.svg");
 }
 
 .litespeed-panel-icon-spam_comment {
-	background-image: url("https://peacebeuponyuu.github.io/website/wp-content/plugins/litespeed-cache/assets/img/icons/spam_comment.svg");
+	background-image: url("/wp-content/plugins/litespeed-cache/assets/img/icons/spam_comment.svg");
 }
 
 .litespeed-panel-icon-trash_comment {
-	background-image: url("https://peacebeuponyuu.github.io/website/wp-content/plugins/litespeed-cache/assets/img/icons/trash_comment.svg");
+	background-image: url("/wp-content/plugins/litespeed-cache/assets/img/icons/trash_comment.svg");
 }
 
 .litespeed-panel-icon-trackback-pingback {
-	background-image: url("https://peacebeuponyuu.github.io/website/wp-content/plugins/litespeed-cache/assets/img/icons/trackback-pingback.svg");
+	background-image: url("/wp-content/plugins/litespeed-cache/assets/img/icons/trackback-pingback.svg");
 }
 
 .litespeed-panel-icon-expired_transient {
-	background-image: url("https://peacebeuponyuu.github.io/website/wp-content/plugins/litespeed-cache/assets/img/icons/expired_transient.svg");
+	background-image: url("/wp-content/plugins/litespeed-cache/assets/img/icons/expired_transient.svg");
 }
 
 .litespeed-panel-icon-all_transients {
-	background-image: url("https://peacebeuponyuu.github.io/website/wp-content/plugins/litespeed-cache/assets/img/icons/all_transients.svg");
+	background-image: url("/wp-content/plugins/litespeed-cache/assets/img/icons/all_transients.svg");
 }
 
 .litespeed-panel-icon-optimize_tables {
-	background-image: url("https://peacebeuponyuu.github.io/website/wp-content/plugins/litespeed-cache/assets/img/icons/optimize_tables.svg");
+	background-image: url("/wp-content/plugins/litespeed-cache/assets/img/icons/optimize_tables.svg");
 }
 
 .litespeed-panel-icon-purge-front {
-	background-image: url("https://peacebeuponyuu.github.io/website/wp-content/plugins/litespeed-cache/assets/img/icons/purge-front.svg");
+	background-image: url("/wp-content/plugins/litespeed-cache/assets/img/icons/purge-front.svg");
 }
 
 .litespeed-panel-icon-purge-pages {
-	background-image: url("https://peacebeuponyuu.github.io/website/wp-content/plugins/litespeed-cache/assets/img/icons/purge-pages.svg");
+	background-image: url("/wp-content/plugins/litespeed-cache/assets/img/icons/purge-pages.svg");
 }
 
 .litespeed-panel-icon-purge-cssjs {
-	background-image: url("https://peacebeuponyuu.github.io/website/wp-content/plugins/litespeed-cache/assets/img/icons/purge-cssjs.svg");
+	background-image: url("/wp-content/plugins/litespeed-cache/assets/img/icons/purge-cssjs.svg");
 }
 
 .litespeed-panel-icon-purge-object {
-	background-image: url("https://peacebeuponyuu.github.io/website/wp-content/plugins/litespeed-cache/assets/img/icons/purge-object.svg");
+	background-image: url("/wp-content/plugins/litespeed-cache/assets/img/icons/purge-object.svg");
 }
 
 .litespeed-panel-icon-purge-opcache {
-	background-image: url("https://peacebeuponyuu.github.io/website/wp-content/plugins/litespeed-cache/assets/img/icons/purge-opcache.svg");
+	background-image: url("/wp-content/plugins/litespeed-cache/assets/img/icons/purge-opcache.svg");
 }
 
 .litespeed-panel-icon-purge-all {
-	background-image: url("https://peacebeuponyuu.github.io/website/wp-content/plugins/litespeed-cache/assets/img/icons/purge-all.svg");
+	background-image: url("/wp-content/plugins/litespeed-cache/assets/img/icons/purge-all.svg");
 }
 
 .litespeed-panel-icon-empty-cache {
-	background-image: url("https://peacebeuponyuu.github.io/website/wp-content/plugins/litespeed-cache/assets/img/icons/empty-cache.svg");
+	background-image: url("/wp-content/plugins/litespeed-cache/assets/img/icons/empty-cache.svg");
 }
 
 .litespeed-panel-icon-purge-403 {
-	background-image: url("https://peacebeuponyuu.github.io/website/wp-content/plugins/litespeed-cache/assets/img/icons/purge-403.svg");
+	background-image: url("/wp-content/plugins/litespeed-cache/assets/img/icons/purge-403.svg");
 }
 
 .litespeed-panel-icon-purge-404 {
-	background-image: url("https://peacebeuponyuu.github.io/website/wp-content/plugins/litespeed-cache/assets/img/icons/purge-404.svg");
+	background-image: url("/wp-content/plugins/litespeed-cache/assets/img/icons/purge-404.svg");
 }
 
 .litespeed-panel-icon-purge-500 {
-	background-image: url("https://peacebeuponyuu.github.io/website/wp-content/plugins/litespeed-cache/assets/img/icons/purge-500.svg");
+	background-image: url("/wp-content/plugins/litespeed-cache/assets/img/icons/purge-500.svg");
 }
 
 .litespeed-panel-top-right-icon-cross {
-	background-image: url("https://peacebeuponyuu.github.io/website/wp-content/plugins/litespeed-cache/assets/img/icons/cross_icon.svg");
+	background-image: url("/wp-content/plugins/litespeed-cache/assets/img/icons/cross_icon.svg");
 }
 
 .litespeed-panel-top-right-icon-tick {
-	background-image: url("https://peacebeuponyuu.github.io/website/wp-content/plugins/litespeed-cache/assets/img/icons/success_icon.svg");
+	background-image: url("/wp-content/plugins/litespeed-cache/assets/img/icons/success_icon.svg");
 }
 
 .litespeed-panel-content {
@@ -1945,7 +1945,7 @@ input.litespeed-input-warning {
 }
 
 .litespeed-banner-promo-logo {
-	background-image: url(https://peacebeuponyuu.github.io/website/wp-content/plugins/litespeed-cache/assets/img/lscwp-logo_90x90.png);
+	background-image: url(/wp-content/plugins/litespeed-cache/assets/img/lscwp-logo_90x90.png);
 	background-size: contain;
 	width: 90px;
 	background-repeat: no-repeat;
@@ -1978,7 +1978,7 @@ input.litespeed-input-warning {
 }
 
 .litespeed-banner-promo-slacklogo {
-	background-image: url("https://peacebeuponyuu.github.io/website/wp-content/plugins/litespeed-cache/assets/img/slack-logo.png");
+	background-image: url("/wp-content/plugins/litespeed-cache/assets/img/slack-logo.png");
 	background-size: contain;
 	width: 75px;
 	height: 75px;
@@ -2151,19 +2151,19 @@ a.litespeed-btn-xs.litespeed-banner-promo-slack-btn {
 }
 
 .litespeed-icon-media-webp {
-	background-image: url("https://peacebeuponyuu.github.io/website/wp-content/plugins/litespeed-cache/assets/img/icons/img_webp.svg");
+	background-image: url("/wp-content/plugins/litespeed-cache/assets/img/icons/img_webp.svg");
 }
 
 .litespeed-icon-media-webp-disabled {
-	background-image: url("https://peacebeuponyuu.github.io/website/wp-content/plugins/litespeed-cache/assets/img/icons/img_webp_disabled.svg");
+	background-image: url("/wp-content/plugins/litespeed-cache/assets/img/icons/img_webp_disabled.svg");
 }
 
 .litespeed-icon-media-optm {
-	background-image: url("https://peacebeuponyuu.github.io/website/wp-content/plugins/litespeed-cache/assets/img/icons/img_optm.svg");
+	background-image: url("/wp-content/plugins/litespeed-cache/assets/img/icons/img_optm.svg");
 }
 
 .litespeed-icon-media-optm-disabled {
-	background-image: url("https://peacebeuponyuu.github.io/website/wp-content/plugins/litespeed-cache/assets/img/icons/img_optm_disabled.svg");
+	background-image: url("/wp-content/plugins/litespeed-cache/assets/img/icons/img_optm_disabled.svg");
 }
 
 p.litespeed-media-p {

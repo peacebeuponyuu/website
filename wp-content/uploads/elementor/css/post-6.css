@@ -3,48 +3,48 @@
 	font-style: normal;
 	font-weight: 100;
 	font-display: auto;
-	src: url('https://peacebeuponyuu.github.io/website/wp-content/uploads/2022/12/PlusJakartaSans-ExtraLight.ttf') format('truetype');
+	src: url('/wp-content/uploads/2022/12/PlusJakartaSans-ExtraLight.ttf') format('truetype');
 }
 @font-face {
 	font-family: 'Plus Jakarta Sans';
 	font-style: normal;
 	font-weight: 200;
 	font-display: auto;
-	src: url('https://peacebeuponyuu.github.io/website/wp-content/uploads/2022/12/PlusJakartaSans-Light.ttf') format('truetype');
+	src: url('/wp-content/uploads/2022/12/PlusJakartaSans-Light.ttf') format('truetype');
 }
 @font-face {
 	font-family: 'Plus Jakarta Sans';
 	font-style: normal;
 	font-weight: 300;
 	font-display: auto;
-	src: url('https://peacebeuponyuu.github.io/website/wp-content/uploads/2022/12/PlusJakartaSans-Regular.ttf') format('truetype');
+	src: url('/wp-content/uploads/2022/12/PlusJakartaSans-Regular.ttf') format('truetype');
 }
 @font-face {
 	font-family: 'Plus Jakarta Sans';
 	font-style: normal;
 	font-weight: 400;
 	font-display: auto;
-	src: url('https://peacebeuponyuu.github.io/website/wp-content/uploads/2022/12/PlusJakartaSans-Medium.ttf') format('truetype');
+	src: url('/wp-content/uploads/2022/12/PlusJakartaSans-Medium.ttf') format('truetype');
 }
 @font-face {
 	font-family: 'Plus Jakarta Sans';
 	font-style: normal;
 	font-weight: 500;
 	font-display: auto;
-	src: url('https://peacebeuponyuu.github.io/website/wp-content/uploads/2022/12/PlusJakartaSans-SemiBold.ttf') format('truetype');
+	src: url('/wp-content/uploads/2022/12/PlusJakartaSans-SemiBold.ttf') format('truetype');
 }
 @font-face {
 	font-family: 'Plus Jakarta Sans';
 	font-style: normal;
 	font-weight: 600;
 	font-display: auto;
-	src: url('https://peacebeuponyuu.github.io/website/wp-content/uploads/2022/12/PlusJakartaSans-Bold.ttf') format('truetype');
+	src: url('/wp-content/uploads/2022/12/PlusJakartaSans-Bold.ttf') format('truetype');
 }
 @font-face {
 	font-family: 'Plus Jakarta Sans';
 	font-style: normal;
 	font-weight: 700;
 	font-display: auto;
-	src: url('https://peacebeuponyuu.github.io/website/wp-content/uploads/2022/12/PlusJakartaSans-ExtraBold.ttf') format('truetype');
+	src: url('/wp-content/uploads/2022/12/PlusJakartaSans-ExtraBold.ttf') format('truetype');
 }
 /* End Custom Fonts CSS */

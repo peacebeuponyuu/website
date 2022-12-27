@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Protected: Awanapps Website	</title>
-	<atom:link href="https://peacebeuponyuu.github.io/website/projects/awanapps-website/feed/" rel="self" type="application/rss+xml" />
-	<link>https://peacebeuponyuu.github.io/website/projects/awanapps-website/</link>
+	<atom:link href="/projects/awanapps-website/feed/" rel="self" type="application/rss+xml" />
+	<link>/projects/awanapps-website/</link>
 	<description></description>
 	<lastBuildDate>Thu, 22 Dec 2022 17:29:07 +0000</lastBuildDate>
 	<sy:updatePeriod>
