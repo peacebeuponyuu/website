@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Protected: Front End Social Website	</title>
-	<atom:link href="https://peacebeuponyuu.github.io/website/projects/front-end-social-website/feed/" rel="self" type="application/rss+xml" />
-	<link>https://peacebeuponyuu.github.io/website/projects/front-end-social-website/</link>
+	<atom:link href="/projects/front-end-social-website/feed/" rel="self" type="application/rss+xml" />
+	<link>/projects/front-end-social-website/</link>
 	<description></description>
 	<lastBuildDate>Thu, 22 Dec 2022 17:28:02 +0000</lastBuildDate>
 	<sy:updatePeriod>

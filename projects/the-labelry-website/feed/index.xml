@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Protected: The Labelry Website	</title>
-	<atom:link href="https://peacebeuponyuu.github.io/website/projects/the-labelry-website/feed/" rel="self" type="application/rss+xml" />
-	<link>https://peacebeuponyuu.github.io/website/projects/the-labelry-website/</link>
+	<atom:link href="/projects/the-labelry-website/feed/" rel="self" type="application/rss+xml" />
+	<link>/projects/the-labelry-website/</link>
 	<description></description>
 	<lastBuildDate>Thu, 22 Dec 2022 17:28:52 +0000</lastBuildDate>
 	<sy:updatePeriod>

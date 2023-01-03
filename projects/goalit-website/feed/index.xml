@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Protected: GoalIt Website	</title>
-	<atom:link href="https://peacebeuponyuu.github.io/website/projects/goalit-website/feed/" rel="self" type="application/rss+xml" />
-	<link>https://peacebeuponyuu.github.io/website/projects/goalit-website/</link>
+	<atom:link href="/projects/goalit-website/feed/" rel="self" type="application/rss+xml" />
+	<link>/projects/goalit-website/</link>
 	<description></description>
 	<lastBuildDate>Thu, 22 Dec 2022 17:28:41 +0000</lastBuildDate>
 	<sy:updatePeriod>
